@@ -1,0 +1,25 @@
+*{
+    background-color: #212121;
+    color: white;
+}
+
+
+.btn_start{
+    height: 50px;
+    width: 150px;
+    background-color: purple;
+    border-radius: 25px;
+    border: none;
+}
+
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 100px;
+    background-color: #212121;
+    border-radius: 25px;
+    color: white;
+    padding: 50px;
+    text-align: center;
+}
